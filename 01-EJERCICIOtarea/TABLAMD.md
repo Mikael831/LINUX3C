@@ -1,0 +1,8 @@
+| Archivo | Permisos (secuencia)       | r | w | x |
+|---------|----------------------------|---|---|---|
+| README  | 4,2,0,4,2,0,4,0,0          | 6 | 6 | 4 |
+| DOCS    | 4,2,1,4,2,1,4,0,1          | 7 | 7 | 5 |
+| LOGS    | 4,2,1,4,2,1,4,0,1          | 7 | 7 | 5 |
+| SRC     | 4,2,1,4,2,1,4,0,1          | 7 | 7 | 5 |
+
+https://github.com/Mikael831/LINUX3C/tree/main/01-EJERCICIOtarea
